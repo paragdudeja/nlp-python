@@ -1,4 +1,4 @@
-## Welcome to the Natural Language Processing in Python Tutorial!
+## Natural Language Processing in Python!
 
 AI Assignment
 
